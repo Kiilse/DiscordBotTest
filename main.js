@@ -42,4 +42,4 @@ client.on('messageCreate', message =>{
 })
 
 
-client.login('OTYyMjE5OTIwNzY1MTI0NjA4.YlEXIg.0vFaALufIM1pmgsnQJ-SccehyFQ')
+client.login('OTYyMjE5OTIwNzY1MTI0NjA4.YlEXIg.0vFaALufIM1pmgsnQJ-SccehyFQ') // this token have to be changed
